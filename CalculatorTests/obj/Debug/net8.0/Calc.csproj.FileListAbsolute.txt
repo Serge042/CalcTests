@@ -1,0 +1,5 @@
+C:\Users\SKO\source\repos\Calculator\CalculatorTests\obj\Debug\net8.0\Calc.csproj.AssemblyReference.cache
+C:\Users\SKO\source\repos\Calculator\CalculatorTests\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKO\source\repos\Calculator\CalculatorTests\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+C:\Users\SKO\source\repos\Calculator\CalculatorTests\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+C:\Users\SKO\source\repos\Calculator\CalculatorTests\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache

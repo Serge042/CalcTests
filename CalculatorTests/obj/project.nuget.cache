@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwy6pU8vk1k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SKO\\source\\repos\\Calculator\\CalculatorTests\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SKO\\.nuget\\packages\\nunit\\4.4.0-beta.1\\nunit.4.4.0-beta.1.nupkg.sha512"
+  ],
+  "logs": []
+}

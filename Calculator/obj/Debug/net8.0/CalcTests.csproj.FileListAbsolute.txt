@@ -1,0 +1,8 @@
+C:\Users\SKO\source\repos\Calculator\Calculator\bin\Debug\net8.0\.msCoverageSourceRootsMapping_CalcTests
+C:\Users\SKO\source\repos\Calculator\Calculator\obj\Debug\net8.0\CalcTests.csproj.AssemblyReference.cache
+C:\Users\SKO\source\repos\Calculator\Calculator\obj\Debug\net8.0\CalcTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKO\source\repos\Calculator\Calculator\obj\Debug\net8.0\CalcTests.gentestingplatformentrypointinputcache.cache
+C:\Users\SKO\source\repos\Calculator\Calculator\obj\Debug\net8.0\CalcTests.genautoregisteredextensionsinputcache.cache
+C:\Users\SKO\source\repos\Calculator\Calculator\obj\Debug\net8.0\CalcTests.AssemblyInfoInputs.cache
+C:\Users\SKO\source\repos\Calculator\Calculator\obj\Debug\net8.0\CalcTests.AssemblyInfo.cs
+C:\Users\SKO\source\repos\Calculator\Calculator\obj\Debug\net8.0\CalcTests.csproj.CoreCompileInputs.cache
